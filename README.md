@@ -1,7 +1,7 @@
 
 # Destinos de viagens
 
-Um aplicativo simples para acompanhar os destinos que eu gostaria de visitar.
+A simple app to keep track of the destinations I'd like to visit.
 
 ## Installation
 <!-- Here are the steps of the necessary installations: -->
